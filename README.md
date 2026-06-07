@@ -1,4 +1,3 @@
-[![MasterHead](https://www.textures4photoshop.com/tex/thumbs/computer-screen-code-glitch-animation-gif-background-free-thumb57.gif)](https://shafibro.github.io/Datagiri/)
 <h1 align="center">Hi 👋, I'm Farhan Sadik Shafi</h1>
 <h3 align="center">A passionate Data Science enthusiast from Bangladesh</h3>
 
